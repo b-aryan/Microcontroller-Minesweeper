@@ -1,4 +1,4 @@
-# Minesweeper
+# Microcontroller Minesweeper 
 
 * This was a Project floated by Electronics Club IIT-G for TechEvince 2021, the Annual Technical Exhibition.
 
